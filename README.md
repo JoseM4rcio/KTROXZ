@@ -1,4 +1,5 @@
-## Salve Quebrada
+NÃO É<div style="color: blue;"> FALTA DE CAFÉ,</div> NEM TEQUILA.
+É<div style="color: blue;"> MEU CÓDIGO,</div> QUE <div style="color: blue;"> NÃO COMPILA.</div>
 
 <div>
 <a href="https://github.com/KTROXZ">
